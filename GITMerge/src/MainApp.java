@@ -5,6 +5,8 @@ public class MainApp {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo!!!");
 		int suma = 12;
+		int resta= 12-3;
+
 	}
 
 }
